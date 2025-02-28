@@ -5,4 +5,4 @@ The main goal is to determine the most efficient way to acquire new clientele. T
 
 ### 2 main steps of the project:
 1. **Customer segmentation report:** created by using an unsupervised learning model to analyze the attributes of established customers and the general population
-2. **supervised learning model:** use a 3rd dataset which contains attributes of customers who were targeted for marketing of the mail-order company. prior analysis will be used to predict whether or not those sent marketing will respond
+2. **Supervised learning model:** use a 3rd dataset which contains attributes of customers who were targeted for marketing of the mail-order company. prior analysis will be used to predict whether or not those sent marketing will respond
